@@ -53,7 +53,7 @@ set wildmode=longest,list
 set wildmenu
 " ignore uploads/attachments folder in Rails apps - mostly for Command-T
 set wildignore+=public/system/**
-let mapleader="\"
+let mapleader="\\"
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " COLOR
